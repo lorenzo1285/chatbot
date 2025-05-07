@@ -1,0 +1,17 @@
+# Python cache & environments
+__pycache__/
+*.py[cod]
+.venv/
+env_chatbot/
+
+# Streamlit secrets
+.env
+.streamlit/secrets.toml
+
+# Local data & DB
+db/
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
