@@ -102,6 +102,5 @@ I am Lorenzo Cárdenas, a Data Scientist with a background in Economics and Fina
 ## Contact
 
 * **Email:** [lorenzo\_cardenas@msn.com](mailto:lorenzo_cardenas@msn.com)
-* **Phone:** (+44) 74150 86286
 * **LinkedIn:** linkedin.com/in/lorenzocardenas
 * **GitHub:** github.com/lorenzo1285
