@@ -1,4 +1,8 @@
 import os
+
+os.environ["OTEL_PYTHON_DISABLED"] = "true"
+os.environ["OTEL_EXPORTER_OTLP_ENDPOINT"] = ""
+
 from dotenv import load_dotenv
 import streamlit as st
 from langchain.chat_models import ChatOllama
